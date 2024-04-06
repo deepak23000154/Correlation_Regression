@@ -1,5 +1,5 @@
-                                                                               Name: Deepak. R
-                                                                               Reg no: 212223040031
+                                                                         Name: Deepak. R
+                                                                         Reg no: 212223040031
 # EX-3:Correlation and regression for data analysis
 # Aim : 
 
